@@ -7,7 +7,7 @@ Okay, maybe it's not a fact, but C# still is pretty great...
 I've been working with it for almost 3 years now, and here's my favorite parts:
 - Built in async/await
 - Json Serialization: going to and from json is a breeze
-- SignalR: Websockets plus some other goodies, and it takes like 20 lines of .NET code to get it running.
+- SignalR: Websockets plus some other goodies, and it only takes like 20 lines of .NET code to get it running.
 - Entity Framework: Postgres is my favorite DB, what's yours?
 - ASP.NET Core: Yep, I realize, this one's a bit broad, but when you combine all the other great parts of .NET into a web framework, what's not to like about it?
 - Reflection: Why access a field directly when you can manipulate it through its type? And how about those *magical* attributes? (No need to fret, it's just reflection).
