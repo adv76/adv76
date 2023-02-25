@@ -11,7 +11,7 @@ __🔨 My Dev Environment__
 - Dev machine: Thinkpad X1 Carbon, Windows 10
 - Favorite IDE: Microsoft Visual Studio.
 
-__🔧 Other Cool Toys:__
+__🔧 Other Cool Tools:__
 
 - If your looking for a great terminal on Windows 10, check out [Windows Terminal](https://github.com/microsoft/terminal).
 - How about the re-birth of Win95 and XP's [PowerToys](https://github.com/microsoft/PowerToys)? My favorite tools are FancyZones and the Color Picker.
