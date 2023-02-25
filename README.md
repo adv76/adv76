@@ -1,8 +1,8 @@
 ### ✋ Hi there, I'm Alec
  
-My favorite language is C#. 
+My favorite coding language is C#. 
 
-__⚡ Fun fact: C# is the greatest language__.
+__⚡ Fun fact: C# is the greatest programming language__.
 
 Okay, maybe it's not a fact, but C# is pretty great... Read more about why I like it [here](https://adv68.github.io/adv68/CSHARP).
 
