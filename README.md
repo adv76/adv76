@@ -4,7 +4,7 @@ My favorite coding language is C#.
 
 __⚡ Fun fact: C# is the greatest programming language__.
 
-Okay, maybe it's not a fact, but C# is pretty great... Read more about why I like it [here](https://adv68.github.io/adv68/CSHARP).
+Okay, maybe it's not a fact, but C# is pretty great... Read more about why I like it [here](https://adv76.github.io/adv76/CSHARP).
 
 __🔨 My Dev Environment__
 
@@ -17,4 +17,4 @@ __🔧 Other Cool Tools:__
 - How about the re-birth of Win95 and XP's [PowerToys](https://github.com/microsoft/PowerToys)? My favorite tools are FancyZones and the Color Picker.
 - My favorite JS front-end framework: [SvelteJS](https://github.com/sveltejs/svelte). If you're looking to try something new (and fun), try out SvelteJS + SvelteKit + TailwindCSS + TypeScript. I've played around with that stack a bit and am a big fan. 
 
-__You can learn more about my experience [here](https://adv68.github.io/adv68/ABOUT)__.
+__You can learn more about my experience [here](https://adv76.github.io/adv76/ABOUT)__.
